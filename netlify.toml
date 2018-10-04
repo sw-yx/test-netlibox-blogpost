@@ -10,7 +10,7 @@
 #   from = "/dropbox-webhook"
 #   to = "/.netlify/functions/dropbox-webhook"
 #   status = 200
-[[redirects]]
-  from = "/dropbox-webhook"
-  to = "https://api.netlify.com/build_hooks/5bb63da3b13fb14ad0715ef2"
-  status = 200
+#[[redirects]]
+#  from = "/dropbox-webhook"
+#  to = "https://api.netlify.com/build_hooks/5bb63da3b13fb14ad0715ef2"
+#  status = 200
